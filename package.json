@@ -1,0 +1,18 @@
+{
+  "name": "sane-email-validator",
+  "version": "1.0.4",
+  "description": "npm module to validate email string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "validator"
+  ],
+  "author": "abhinav <abhinav.c@live.in> (http://abhinavchat.com)",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
